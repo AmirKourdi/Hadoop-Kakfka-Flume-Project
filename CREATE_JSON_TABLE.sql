@@ -1,0 +1,3 @@
+CREATE TABLE json_demo (jsondata string )
+ROW FORMAT DELIMITED FIELDS TERMINATED BY '*' STORED AS TEXTFILE
+LOCATION '/data/marlasinger/';
