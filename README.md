@@ -1,2 +1,0 @@
-# Hadoop-Kakfka-Flume-Project 
- 
