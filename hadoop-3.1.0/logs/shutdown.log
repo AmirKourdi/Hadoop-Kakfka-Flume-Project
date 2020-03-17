@@ -1,0 +1,137 @@
+STOPPING DFS: Fri Mar 13 12:23:24 UTC 2020
+Stopping namenodes on [localhost]
+Stopping datanodes
+Stopping secondary namenodes [ip-172-31-39-136.eu-west-1.compute.internal]
+STOPPING YARN: Fri Mar 13 12:23:40 UTC 2020
+Stopping nodemanagers
+Stopping resourcemanager
+STOPPING DFS: Fri Mar 13 12:25:20 UTC 2020
+Stopping namenodes on [localhost]
+Stopping datanodes
+Stopping secondary namenodes [ip-172-31-39-136.eu-west-1.compute.internal]
+STOPPING YARN: Fri Mar 13 12:25:39 UTC 2020
+Stopping nodemanagers
+Stopping resourcemanager
+STOPPING DFS: Fri Mar 13 12:28:38 UTC 2020
+Stopping namenodes on [localhost]
+Stopping datanodes
+Stopping secondary namenodes [ip-172-31-39-136.eu-west-1.compute.internal]
+STOPPING YARN: Fri Mar 13 12:28:57 UTC 2020
+Stopping nodemanagers
+localhost: WARNING: nodemanager did not stop gracefully after 5 seconds: Trying to kill with kill -9
+localhost: ERROR: Unable to kill 8481
+Stopping resourcemanager
+STOPPING DFS: Fri Mar 13 12:29:57 UTC 2020
+Stopping namenodes on [localhost]
+Stopping datanodes
+localhost: cat: /tmp/hadoop-hadoopuser-datanode.pid: No such file or directory
+localhost: WARNING: pid has changed for datanode, skip deleting pid file
+Stopping secondary namenodes [ip-172-31-39-136.eu-west-1.compute.internal]
+STOPPING YARN: Fri Mar 13 12:30:12 UTC 2020
+Stopping nodemanagers
+Stopping resourcemanager
+STOPPING DFS: Fri Mar 13 12:37:29 UTC 2020
+Stopping namenodes on [localhost]
+Stopping datanodes
+Stopping secondary namenodes [ip-172-31-39-136.eu-west-1.compute.internal]
+STOPPING YARN: Fri Mar 13 12:37:48 UTC 2020
+Stopping nodemanagers
+Stopping resourcemanager
+STOPPING DFS: Fri Mar 13 12:40:17 UTC 2020
+Stopping namenodes on [localhost]
+Stopping datanodes
+Stopping secondary namenodes [ip-172-31-39-136.eu-west-1.compute.internal]
+STOPPING YARN: Fri Mar 13 12:40:21 UTC 2020
+Stopping nodemanagers
+Stopping resourcemanager
+STOPPING DFS: Fri Mar 13 12:56:14 UTC 2020
+Stopping namenodes on [localhost]
+Stopping datanodes
+Stopping secondary namenodes [ip-172-31-39-136.eu-west-1.compute.internal]
+STOPPING YARN: Fri Mar 13 12:56:34 UTC 2020
+Stopping nodemanagers
+Stopping resourcemanager
+STOPPING DFS: Fri Mar 13 13:17:56 UTC 2020
+Stopping namenodes on [localhost]
+localhost: cat: /tmp/hadoop-hadoopuser-namenode.pid: No such file or directory
+localhost: WARNING: pid has changed for namenode, skip deleting pid file
+Stopping datanodes
+Stopping secondary namenodes [ip-172-31-39-136.eu-west-1.compute.internal]
+STOPPING YARN: Fri Mar 13 13:18:05 UTC 2020
+Stopping nodemanagers
+Stopping resourcemanager
+STOPPING DFS: Fri Mar 13 16:06:32 UTC 2020
+Stopping namenodes on [localhost]
+Stopping datanodes
+Stopping secondary namenodes [ip-172-31-39-136.eu-west-1.compute.internal]
+STOPPING YARN: Fri Mar 13 16:06:37 UTC 2020
+Stopping nodemanagers
+localhost: WARNING: nodemanager did not stop gracefully after 5 seconds: Trying to kill with kill -9
+Stopping resourcemanager
+STOPPING DFS: Fri Mar 13 20:26:09 UTC 2020
+Stopping namenodes on [localhost]
+localhost: WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+Stopping datanodes
+localhost: WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+Stopping secondary namenodes [ip-172-31-39-136.eu-west-1.compute.internal]
+ip-172-31-39-136: WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+STOPPING YARN: Fri Mar 13 20:27:42 UTC 2020
+Stopping nodemanagers
+localhost: WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+localhost: WARNING: nodemanager did not stop gracefully after 5 seconds: Trying to kill with kill -9
+STOPPING DFS: Fri Mar 13 20:30:05 UTC 2020
+Stopping namenodes on [localhost]
+localhost: WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+Stopping datanodes
+localhost: WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+Stopping secondary namenodes [ip-172-31-39-136.eu-west-1.compute.internal]
+ip-172-31-39-136: WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+STOPPING YARN: Fri Mar 13 20:30:37 UTC 2020
+Stopping nodemanagers
+localhost: WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+localhost: WARNING: nodemanager did not stop gracefully after 5 seconds: Trying to kill with kill -9
+Stopping resourcemanager
+STOPPING DFS: Fri Mar 13 20:59:35 UTC 2020
+Stopping namenodes on [localhost]
+localhost: WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+Stopping datanodes
+localhost: WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+Stopping secondary namenodes [ip-172-31-39-136.eu-west-1.compute.internal]
+ip-172-31-39-136: WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+STOPPING YARN: Fri Mar 13 20:59:52 UTC 2020
+Stopping nodemanagers
+localhost: WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+Stopping resourcemanager
+STOPPING DFS: Fri Mar 13 21:06:41 UTC 2020
+Stopping namenodes on [localhost]
+localhost: WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+Stopping datanodes
+localhost: WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+Stopping secondary namenodes [ip-172-31-39-136.eu-west-1.compute.internal]
+ip-172-31-39-136.eu-west-1.compute.internal: WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+STOPPING YARN: Fri Mar 13 21:07:01 UTC 2020
+Stopping nodemanagers
+localhost: WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+Stopping resourcemanager
+STOPPING DFS: Fri Mar 13 21:07:42 UTC 2020
+Stopping namenodes on [localhost]
+localhost: WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+Stopping datanodes
+localhost: WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+Stopping secondary namenodes [ip-172-31-39-136.eu-west-1.compute.internal]
+ip-172-31-39-136.eu-west-1.compute.internal: WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+STOPPING YARN: Fri Mar 13 21:08:02 UTC 2020
+Stopping nodemanagers
+localhost: WARNING: HADOOP_PREFIX has been replaced by HADOOP_HOME. Using value of HADOOP_PREFIX.
+Stopping resourcemanager
+STOPPING DFS: Fri Mar 13 21:11:30 UTC 2020
+Stopping namenodes on [localhost]
+/opt/hadoop-3.1.0/libexec/hadoop-functions.sh: line 1028: pdsh: command not found
+Stopping datanodes
+/opt/hadoop-3.1.0/libexec/hadoop-functions.sh: line 1022: pdsh: command not found
+Stopping secondary namenodes [ip-172-31-39-136.eu-west-1.compute.internal]
+/opt/hadoop-3.1.0/libexec/hadoop-functions.sh: line 1028: pdsh: command not found
+STOPPING YARN: Fri Mar 13 21:11:33 UTC 2020
+Stopping nodemanagers
+/opt/hadoop-3.1.0/libexec/hadoop-functions.sh: line 1022: pdsh: command not found
+Stopping resourcemanager
