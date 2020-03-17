@@ -1,4 +1,3 @@
-sudo systemctl disable hadoop
 sudo systemctl disable hive-server
 sudo systemctl disable hadoop
 sudo systemctl disable flume
